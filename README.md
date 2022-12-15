@@ -13,3 +13,10 @@
 
 ## Global Marketing
 #### Global Marketing_Germany Presentation - Presentaiton about investing in Germany
+
+## Survey Design & Data Collection
+#### 1. [Qualtrics Link :] (https://usfca.qualtrics.com/jfe/form/SV_3r5M3BP3jzI2j1s)
+#### 2. Survey Design-codebooks
+#### 3. Survey Design-Data analytics with R
+#### 4. Survey Design-Final Data Analysis with Report
+#### 5. Survey Design-Final Presentation 
